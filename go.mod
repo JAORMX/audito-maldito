@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/elastic/go-libaudit/v2 v2.3.2
-	github.com/fsnotify/fsnotify v1.6.0
+	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-logr/zapr v1.2.3
 	github.com/metal-toolbox/auditevent v0.6.1
 	github.com/stretchr/testify v1.8.2
